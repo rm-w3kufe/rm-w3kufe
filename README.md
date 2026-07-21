@@ -1,4 +1,4 @@
-## rmw3kufe
+## rm-w3kufe
 
 Systems research. Cybersecurity. AI governance.
 
@@ -13,7 +13,8 @@ The goal is a governance primitive you can embed anywhere a system needs to rema
 ---
 
 **Active:**
-- [`vsf`](https://github.com/rmw3kufe/vsf) — Viable System Framework + governance kernel (Rust + Python)
+- **VSF** — Viable System Framework + governance kernel (Rust + Python). *Core private for now; public window:* [`vsf-sandbox`](https://github.com/rm-w3kufe/vsf-sandbox).
+- [`state-rag-mcp`](https://github.com/rm-w3kufe/state-rag-mcp) — state-grounded RAG for agents over MCP: reconciled ground truth in the agent's path.
 
 **Stack:**
 `Rust` `Python` `Proxmox` `cgroup v2` `pfSense` `Wazuh` `Claude Code`
@@ -21,6 +22,7 @@ The goal is a governance primitive you can embed anywhere a system needs to rema
 **Background:**
 Networks → cybersecurity → AI systems engineering.
 CompTIA Security+.
+Earlier tools and experiments: [@luispinedare](https://github.com/luispinedare).
 
 ---
 
