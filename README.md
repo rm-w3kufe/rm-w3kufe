@@ -14,7 +14,7 @@ The goal is a governance primitive you can embed anywhere a system needs to rema
 
 **Active:**
 - **VSF** — Viable System Framework + governance kernel (Rust + Python). *Core private for now; public window:* [`vsf-sandbox`](https://github.com/rm-w3kufe/vsf-sandbox).
-- [`state-canon-mcp`](https://github.com/rm-w3kufe/state-canon-mcp) — state-grounded RAG for agents over MCP: reconciled ground truth in the agent's path.
+- [`state-canon-mcp`](https://github.com/rm-w3kufe/state-canon-mcp) — state-grounded Canon state verifier for agents over MCP: reconciled ground truth in the agent's path.
 
 **Stack:**
 `Rust` `Python` `Proxmox` `cgroup v2` `pfSense` `Wazuh` `Claude Code`
